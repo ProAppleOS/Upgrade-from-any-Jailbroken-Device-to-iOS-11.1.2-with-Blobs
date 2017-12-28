@@ -79,15 +79,14 @@ Now you are all set for your Upgrade! Now you should have this in the ```Upgrade
 6. write this
 - ```./futurerestore_macos -t (drag blob) --latest-sep --latest-baseband (drag iphone11.1.2.ipsw)``` 
 - Good example here: https://imgur.com/a/02EnO
-7. Plug your Device in
-8. Unlock your Device
-9. CROSS FINGERS AND click Enter in Terminal
+7. Plug your Device in 
+8. CROSS FINGERS AND click Enter in Terminal
 - ITS NORMAL THAT YOUR SCREEN OF DEVICE TURNS INTO GREEN (JUST IN THE UPGRADE PROCESS)!
-10. Now it should work 
-11. Wait about 5-10 Minutes
-12. Your Phone restarts now.
-13. Set up your Device
-14. Install a Jailbreak if one is out :)
+9. Now it should work 
+10. Wait about 5-10 Minutes
+11. Your Phone restarts now.
+12. Set up your Device
+13. Install a Jailbreak if one is out :)
 
                                          DONE! ENJOY YOUR JAILBREAK :D
 - Feel free to Donate :) https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=AXEXQHKE2GHNC
